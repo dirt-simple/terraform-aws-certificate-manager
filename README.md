@@ -1,2 +1,5 @@
-# terraform-aws-route53-cnames
-Create AWS ACM Certificates
+# terraform-aws-certificate-manager
+
+AWS ACM Certificates
+
+Creates wildcard cert and CNAME.
